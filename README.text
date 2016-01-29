@@ -11,3 +11,21 @@ Automatic Weather Stations (Devices) send data to the system.
        3.Enter Meta Data Into The System: 
 Metadata refers to information about stations, elements, instruments, the units that will be used to measure the elements and other objects in the system. 
 Station information must be in place before data for that station can be added. We anticipate this information being added by the station Manager. 
+     
+     4.View Data Analysis and Export Data: 
+Manager will be able to use the system to be able to come up with better analysis on the information that has been collected through using the reports that the system can generate.
+and they  will be able to export the data from the system into different formats like excel, csv.
+
+
+     5.Scan And Upload Previous Documents: 
+Only users who are using the Web Data Entry Method will be able to scan all previous documents concerning weather and thereafter upload (Achieve) the Scanned document(s).
+Before uploading the Scanned documents they will be required to enter some information concerning the scanned document they want to upload. 
+This information may include things like the date of the scanned documents when entered. 
+
+     6.Enter Meta Data Into The System: 
+Metadata refers to information about stations, elements, instruments, the units that will be used to measure the elements and other objects in the system. 
+Station information must be in place before data for that station can be added. We anticipate this information being added by the station Manager. 
+    
+    7.Send  Warning SMS: 
+ This will be in the form of remainder(warning) SMS which will depend upon the information the Manager input into the system will entering the meta data about an instrument at a particular station. 
+ This functionality will only be utilize if the manger input data like for an instrument validity to be at some certain date, so the system will automate send a message informing the Manager at the instrument at such station its due date is almost.
